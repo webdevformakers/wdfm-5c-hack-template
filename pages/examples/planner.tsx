@@ -1,4 +1,4 @@
-import PlannerInteractive from "@/components/planner-interactive";
+import PlannerInteractive from "@/components/examples/planner-interactive";
 
 export default function Planner() {
     return (

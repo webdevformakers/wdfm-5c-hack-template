@@ -1,5 +1,4 @@
 import { ReactNode, useState } from "react";
-import Example from "./example";
 
 export default function PlannerInteractive(props: {children?: ReactNode}) {
     const [text, setText] = useState<string>("");

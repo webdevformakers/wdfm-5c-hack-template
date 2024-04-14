@@ -1,5 +1,5 @@
-import Codeblock from "@/components/codeblock";
-import Example from "@/components/example";
+import Codeblock from "@/components/examples/codeblock";
+import Example from "@/components/examples/example";
 import Head from "next/head";
 
 export default function Components() {
